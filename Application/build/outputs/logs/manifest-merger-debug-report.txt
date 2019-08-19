@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/c56ee5998adea040386d9f645527b8a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/15cd827fcdf28eb0db8b2aec30db836a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/656fde78ad2bebd09beb0f900ef47a00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/6337c8e3cfef1bc01f9704e88374b34e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/aa750d4d5b18d0e459152ee612220640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/7da577339fd53f747e71ec0fb5a50541/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/02facfcfed18bb4740939e3db8d61f12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/34a0512cc336a4d8ade8842402eacc3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/feeda0c6a6a1f2b99a3ed0f736e8a700/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/3cbbab75db0ea49e4ce0e103dac24cfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/33a5207ec3368ae690dfe8a81f6995c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jake/.gradle/caches/transforms-2/files-2.1/740cb3b2ab58ffb6dae8526629b01b47/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:18:5-49
+	android:versionName
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:24:5-37:19
+	android:label
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:24:18-44
+	android:theme
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.repeatingalarm.MainActivity
+ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:30:19-51
+	android:uiOptions
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:31:19-63
+	android:name
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/c56ee5998adea040386d9f645527b8a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/c56ee5998adea040386d9f645527b8a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/15cd827fcdf28eb0db8b2aec30db836a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/15cd827fcdf28eb0db8b2aec30db836a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/656fde78ad2bebd09beb0f900ef47a00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/656fde78ad2bebd09beb0f900ef47a00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/6337c8e3cfef1bc01f9704e88374b34e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/6337c8e3cfef1bc01f9704e88374b34e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/aa750d4d5b18d0e459152ee612220640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/aa750d4d5b18d0e459152ee612220640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/7da577339fd53f747e71ec0fb5a50541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/7da577339fd53f747e71ec0fb5a50541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/02facfcfed18bb4740939e3db8d61f12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/02facfcfed18bb4740939e3db8d61f12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/34a0512cc336a4d8ade8842402eacc3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/34a0512cc336a4d8ade8842402eacc3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/feeda0c6a6a1f2b99a3ed0f736e8a700/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/feeda0c6a6a1f2b99a3ed0f736e8a700/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/3cbbab75db0ea49e4ce0e103dac24cfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/3cbbab75db0ea49e4ce0e103dac24cfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/33a5207ec3368ae690dfe8a81f6995c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/jake/.gradle/caches/transforms-2/files-2.1/33a5207ec3368ae690dfe8a81f6995c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jake/.gradle/caches/transforms-2/files-2.1/740cb3b2ab58ffb6dae8526629b01b47/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jake/.gradle/caches/transforms-2/files-2.1/740cb3b2ab58ffb6dae8526629b01b47/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		ADDED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/AndroidManifest.xml

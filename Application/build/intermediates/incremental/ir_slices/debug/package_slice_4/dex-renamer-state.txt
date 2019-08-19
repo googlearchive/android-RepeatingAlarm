@@ -1,0 +1,4 @@
+#Mon Aug 19 19:34:21 IST 2019
+base.0=/home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

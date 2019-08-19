@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "656,724",
+                        "endColumns": "67,67",
+                        "endOffsets": "719,787"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,679",
+                        "endColumns": "67,67",
+                        "endOffsets": "674,742"
+                    }
+                },
+                {
+                    "source": "/home/jake/Desktop/Work/Alarm/android-RepeatingAlarm/Application/src/main/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "27,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "989,621",
+                        "endLines": "29,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "1104,983"
+                    },
+                    "to": {
+                        "startLines": "12,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "747,867",
+                        "endLines": "14,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "862,1229"
+                    }
+                },
+                {
+                    "source": "/home/jake/.gradle/caches/transforms-2/files-2.1/6337c8e3cfef1bc01f9704e88374b34e/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                }
+            ]
+        }
+    ]
+}
